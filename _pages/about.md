@@ -11,7 +11,6 @@ profile:
   more_info: >
     <p>E-mail: ahn@irvs.ait.kyushu-u.ac.jp</p>
     <p>Phone: +81-80-7895-6121</p>
-    <p>Your City, State 12345</p>
 
 Grants:
   A
