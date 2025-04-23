@@ -409,7 +409,7 @@ ninja.data = [{
           title: 'Completed my PhD at Kyushu University.',
           description: "",
           section: "News",},{id: "news-joined-kyushu-university-as-a-postdoc",
-          title: 'Joined Kyushu University as a Postdoc',
+          title: 'Joined Kyushu University as a Postdoc.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
