@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have now completed my PhD at Kyushu University.
+Completed my PhD at Kyushu University.
