@@ -23,6 +23,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
 E-mail: ahn@irvs.ait.kyushu-u.ac.jp
 Phone: +81-80-7895-6121
 
