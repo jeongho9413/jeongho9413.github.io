@@ -31,25 +31,4 @@ Phone: +81-80-7895-6121
 I'm Jeongho Ahn (안정호 in South Korea), a research fellow at Kyushu University in Fukuoka.
 I received my Ph.D. in Information Science and Electrical Engineering from Kyushu University in 2025, under the supervision of [Prof. Ryo Kurazume](https://robotics.ait.kyushu-u.ac.jp/).
 My primary research interests lie in the technologies behind computer vision and robotics.
-
-
-Experience:
-  A
-  B
-  C
-
-Education:
-  A
-  B
-  C
-
-Grant:
-  A
-
-Award:
-  A
-
-Reviewer:
-  A
-
   
