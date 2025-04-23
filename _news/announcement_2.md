@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined Kyushu University as a Postdoc
+Joined Kyushu University as a Postdoc.
