@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: 
+subtitle: 
 
 profile:
   align: right
@@ -22,7 +23,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
+E-mail: ahn@irvs.ait.kyushu-u.ac.jp
+Phone: +81-80-7895-6121
 
 I'm Jeongho Ahn (안정호 in South Korea), a research fellow at Kyushu University in Fukuoka.
 I received my Ph.D. in Information Science and Electrical Engineering from Kyushu University in 2025, under the supervision of [Prof. Ryo Kurazume](https://robotics.ait.kyushu-u.ac.jp/).
