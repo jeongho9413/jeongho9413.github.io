@@ -40,12 +40,12 @@ I am a research fellow at Kyushu University, affiliated with the Faculty of Info
   Fukuoka, Japan
 
 
-- **Research Intern at [NASA JPL (Jet Propulsion Laboratory)](https://www.jpl.nasa.gov/)**<br>
+- **Research Intern at NASA JPL (Jet Propulsion Laboratory)**<br>
   Feb 2024 – Apr. 2024<br>
   Pasadena, California, United States
 
 
-- **Part-time Engineer at [Living Robot](https://livingrobot.co.jp/en/)**<br>
+- **Part-time Engineer at Living Robot**<br>
   Oct 2020 – Jan 2024<br>
   Fukuoka, Japan
 
