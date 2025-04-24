@@ -48,9 +48,8 @@ I am a research fellow at Kyushu University, affiliated with the Faculty of Info
 - **Part-time Engineer at Living Robot Inc**<br>
   Oct 2020 – Jan 2024<br>
   Fukuoka, Japan
+  
 
-
-<br>
 
 
 ## education
@@ -71,9 +70,6 @@ I am a research fellow at Kyushu University, affiliated with the Faculty of Info
 
 
 
-<br>
-
-
 
 ## award
 
@@ -82,7 +78,6 @@ I am a research fellow at Kyushu University, affiliated with the Faculty of Info
   Mar 2025
 
 
-<br>
 
 
 ## grant
@@ -92,7 +87,6 @@ I am a research fellow at Kyushu University, affiliated with the Faculty of Info
   Oct 2021 - Sep 2024
 
 
-<br>
 
 
 ## reviewer
@@ -101,7 +95,6 @@ I am a research fellow at Kyushu University, affiliated with the Faculty of Info
   2025
 
 
-<br>
 
 
 ## additional infomation
