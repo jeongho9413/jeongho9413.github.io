@@ -29,6 +29,8 @@ latest_posts:
 I am a research fellow at Kyushu University, affiliated with the Faculty of Information Science and Electrical Engineering and the Faculty of Engineering. I received my PhD from Kyushu University in 2025, under the supervision of [Prof. Ryo Kurazume](https://robotics.ait.kyushu-u.ac.jp/). My research interests lie at the intersection of computer vision and robotics, particularly in 3D scene understanding and gait recognition.
 
 
+
+
 ---
 
 ## experience
@@ -70,11 +72,31 @@ I am a research fellow at Kyushu University, affiliated with the Faculty of Info
 
 
 
-## grants
+
+## award
+
+- **Presentation Award**<br>
+  3MT (Three Minute Thesis) Competition, Kyushu University<br>
+  Mar 2025
+
+
+
+
+
+## grant
 
 - **Support for Pioneering Research Initiated by the Next Generation (SPRING)**<br>
   Japan Science and Technology Agency (JST)<br>
   Oct 2021 - Sep 2024
+
+
+
+
+
+## reviewer
+
+- **Journal of NeuroEngineering and Rehabilitation**<br>
+  2025
 
 
 
