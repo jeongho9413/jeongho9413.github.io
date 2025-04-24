@@ -51,8 +51,6 @@ I am a research fellow at Kyushu University, affiliated with the Faculty of Info
 
 
 
----
-
 ## education
 
 - PhD, Graduate School of Information Science and Electrical Engineering, Kyushu University
