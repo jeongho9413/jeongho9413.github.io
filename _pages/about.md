@@ -33,18 +33,18 @@ I am a research fellow at Kyushu University, affiliated with the Faculty of Info
 
 ## experience
 
-- Research Fellow at Kyushu University
-  Apr 2025 – Present
+- **Research Fellow at Kyushu University**<br>
+  Apr 2025 – Present<br>
   Fukuoka, Japan
 
 
-- Research Intern at [NASA JPL (Jet Propulsion Laboratory)](https://www.jpl.nasa.gov/)
-  Feb 2024 – Apr. 2024
+- **Research Intern at [NASA JPL (Jet Propulsion Laboratory)](https://www.jpl.nasa.gov/)**<br>
+  Feb 2024 – Apr. 2024<br>
   Pasadena, California, United States
 
 
-- Part-time Engineer at [Living Robot](https://livingrobot.co.jp/en/)
-  Oct 2020 – Jan 2024
+- **Part-time Engineer at [Living Robot](https://livingrobot.co.jp/en/)**<br>
+  Oct 2020 – Jan 2024<br>
   Fukuoka, Japan
 
 
@@ -53,18 +53,18 @@ I am a research fellow at Kyushu University, affiliated with the Faculty of Info
 
 ## education
 
-- PhD, Graduate School of Information Science and Electrical Engineering, Kyushu University
-  Oct 2021 - Mar 2025
+- **PhD, Graduate School of Information Science and Electrical Engineering, Kyushu University**<br>
+  Oct 2021 - Mar 2025<br>
   Fukuoka, Japan
 
 
-- MEng, Graduate School of Information Science and Electrical Engineering, Kyushu University
-  Apr 2019 - Mar 2021
+- **MEng, Graduate School of Information Science and Electrical Engineering, Kyushu University**<br>
+  Apr 2019 - Mar 2021<br>
   Fukuoka, Japan
 
 
-- BEng, Department of Electronic Engineering, Gachon University
-  Mar 2012 - Feb 2019
+- **BEng, Department of Electronic Engineering, Gachon University**<br>
+  Mar 2012 - Feb 2019<br>
   Seongnam, South Korea
 
 
@@ -72,8 +72,8 @@ I am a research fellow at Kyushu University, affiliated with the Faculty of Info
 
 ## grants
 
-- Support for Pioneering Research Initiated by the Next Generation (SPRING)
-  Japan Science and Technology Agency (JST)
+- **Support for Pioneering Research Initiated by the Next Generation (SPRING)**<br>
+  Japan Science and Technology Agency (JST)<br>
   Oct 2021 - Sep 2024
 
 
