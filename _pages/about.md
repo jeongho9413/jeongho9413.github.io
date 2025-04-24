@@ -27,4 +27,29 @@ latest_posts:
 ---
 
 I am a research fellow at Kyushu University, affiliated with the Faculty of Information Science and Electrical Engineering and the Faculty of Engineering. I received my PhD from Kyushu University in 2025, under the supervision of [Prof. Ryo Kurazume](https://robotics.ait.kyushu-u.ac.jp/). My research interests lie at the intersection of computer vision and robotics, particularly in 3D scene understanding and gait recognition.
+
+
+---
+
+## Experience
+
+<div align="center">
+
+### • Research Fellow at Kyushu University  
+Apr. 2025 – Present  
+_Fukuoka, Japan_
+
+<br>
+
+### • Research Intern at NASA JPL (Jet Propulsion Laboratory)  
+Feb. 2024 – Apr. 2024  
+_Pasadena, California, United States_
+
+<br>
+
+### • Part-time Engineer at Living Robot
+Oct 2020 – Jan 2024  
+_Fukuoka, Japan_
+
+</div>
   
