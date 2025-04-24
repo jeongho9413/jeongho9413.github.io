@@ -50,19 +50,22 @@ Fukuoka, Japan
 
 
 
+
 ## education
 
 • PhD, Graduate School of Information Science and Electrical Engineering, Kyushu University
-Oct 2021 - Mar 2025
-Fukuoka, Japan
+  Oct 2021 - Mar 2025
+  Fukuoka, Japan
+
 
 
 • MEng, Graduate School of Information Science and Electrical Engineering, Kyushu University
-Apr 2019 - Mar 2021
-Fukuoka, Japan
+  Apr 2019 - Mar 2021
+  Fukuoka, Japan
+
 
 
 • BEng, Department of Electronic Engineering, Gachon University
-Mar 2012 - Feb 2019
-Seongnam, South Korea
+  Mar 2012 - Feb 2019
+  Seongnam, South Korea
   
