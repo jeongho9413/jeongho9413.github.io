@@ -97,8 +97,8 @@ I am a research fellow at Kyushu University, affiliated with the Faculty of Info
   Military Police of the Republic of Korea Army<br>
   Oct 2014 - Jul 2016
 
-- **Completed a Japanese Language Program as the Student Representative at the Graduation Ceremony**<br>
-  Fukuoka University<br>
+- **Served as the Student Representative at the Graduation Ceremony**<br>
+  Japan Language Program, Fukuoka University<br>
   Oct 2018 - Sep 2019
 
 ---
