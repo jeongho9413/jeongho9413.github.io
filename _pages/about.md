@@ -98,7 +98,7 @@ I am a research fellow at Kyushu University, affiliated with the Faculty of Info
   Military Police of the Republic of Korea Army<br>
   Oct 2014 - Jul 2016
 
-- **Completed a one-year Japanese language program**<br>
+- **Completed a Japanese language program**<br>
   Fukuoka University<br>
   Oct 2018 - Sep 2019
 
