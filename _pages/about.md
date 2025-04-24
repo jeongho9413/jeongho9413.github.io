@@ -38,14 +38,15 @@ Apr. 2025 – Present
 Fukuoka, Japan
 
 
-• Research Intern at NASA JPL (Jet Propulsion Laboratory)  
+• Research Intern at [NASA JPL (Jet Propulsion Laboratory)](https://www.jpl.nasa.gov/)  
 Feb. 2024 – Apr. 2024  
 Pasadena, California, United States
 
 
-• Part-time Engineer at Living Robot
+• Part-time Engineer at [Living Robot](https://livingrobot.co.jp/en/)
 Oct 2020 – Jan 2024  
 Fukuoka, Japan
+
 
 
 
