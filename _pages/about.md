@@ -66,4 +66,16 @@ I am a research fellow at Kyushu University, affiliated with the Faculty of Info
 - BEng, Department of Electronic Engineering, Gachon University
   Mar 2012 - Feb 2019
   Seongnam, South Korea
+
+
+
+
+## grants
+
+- Support for Pioneering Research Initiated by the Next Generation (SPRING)
+  Japan Science and Technology Agency (JST)
+  Oct 2021 - Sep 2024
+
+
+
   
