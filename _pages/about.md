@@ -46,4 +46,41 @@ Pasadena, California, United States
 • Part-time Engineer at Living Robot
 Oct 2020 – Jan 2024  
 Fukuoka, Japan
+
+
+
+
+## experience
+
+• Research Fellow at Kyushu University  
+Apr. 2025 – Present  
+Fukuoka, Japan
+
+
+• Research Intern at NASA JPL (Jet Propulsion Laboratory)  
+Feb. 2024 – Apr. 2024  
+Pasadena, California, United States
+
+
+• Part-time Engineer at Living Robot
+Oct 2020 – Jan 2024  
+Fukuoka, Japan
+
+
+
+## education
+
+• PhD, Graduate School of Information Science and Electrical Engineering, Kyushu University
+Oct 2021 - Mar 2025
+Fukuoka, Japan
+
+
+• MEng, Graduate School of Information Science and Electrical Engineering, Kyushu University
+Apr 2019 - Mar 2021
+Fukuoka, Japan
+
+
+• BE, Department of Electronic Engineering, Gachon University
+Mar 2012 - Feb 2019
+Seongnam, South Korea
   
