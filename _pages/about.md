@@ -45,7 +45,7 @@ I am a research fellow at Kyushu University, affiliated with the Faculty of Info
   Pasadena, California, United States
 
 
-- **Part-time Engineer at Living Robot**<br>
+- **Part-time Engineer at Living Robot Inc**<br>
   Oct 2020 – Jan 2024<br>
   Fukuoka, Japan
 
