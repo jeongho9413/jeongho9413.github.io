@@ -34,12 +34,12 @@ I am a research fellow at Kyushu University, affiliated with the Faculty of Info
 ## experience
 
 • Research Fellow at Kyushu University  
-Apr. 2025 – Present  
+Apr 2025 – Present  
 Fukuoka, Japan
 
 
 • Research Intern at [NASA JPL (Jet Propulsion Laboratory)](https://www.jpl.nasa.gov/)  
-Feb. 2024 – Apr. 2024  
+Feb 2024 – Apr. 2024  
 Pasadena, California, United States
 
 
