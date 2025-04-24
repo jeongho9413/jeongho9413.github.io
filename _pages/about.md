@@ -31,7 +31,7 @@ I am a research fellow at Kyushu University, affiliated with the Faculty of Info
 
 ---
 
-## Experience
+## experience
 
 • Research Fellow at Kyushu University  
 Apr. 2025 – Present  
