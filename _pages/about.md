@@ -12,9 +12,6 @@ profile:
     <p>E-mail: ahn@irvs.ait.kyushu-u.ac.jp</p>
     <p>Phone: +81-80-7895-6121</p>
 
-Grants:
-  A
-
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -29,7 +26,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm Jeongho Ahn (안정호 in South Korea), a research fellow at Kyushu University in Fukuoka.
-I received my Ph.D. in Information Science and Electrical Engineering from Kyushu University in 2025, under the supervision of [Prof. Ryo Kurazume](https://robotics.ait.kyushu-u.ac.jp/).
-My primary research interests lie in the technologies behind computer vision and robotics.
+I am a research fellow at Kyushu University, affiliated with the Faculty of Information Science and Electrical Engineering and the Faculty of Engineering. I received my PhD from Kyushu University in 2025, under the supervision of [Prof. Ryo Kurazume](https://robotics.ait.kyushu-u.ac.jp/). My research interests lie at the intersection of computer vision and robotics, particularly in 3D scene understanding and gait recognition.
   
