@@ -62,7 +62,7 @@ Apr 2019 - Mar 2021
 Fukuoka, Japan
 
 
-• BE, Department of Electronic Engineering, Gachon University
+• BEng, Department of Electronic Engineering, Gachon University
 Mar 2012 - Feb 2019
 Seongnam, South Korea
   
