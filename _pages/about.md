@@ -50,7 +50,7 @@ I am a research fellow at Kyushu University, affiliated with the Faculty of Info
   Fukuoka, Japan
 
 
-<br><br>
+<br>
 
 
 ## education
@@ -71,7 +71,7 @@ I am a research fellow at Kyushu University, affiliated with the Faculty of Info
 
 
 
-<br><br>
+<br>
 
 
 
@@ -82,7 +82,7 @@ I am a research fellow at Kyushu University, affiliated with the Faculty of Info
   Mar 2025
 
 
-<br><br>
+<br>
 
 
 ## grant
@@ -92,7 +92,7 @@ I am a research fellow at Kyushu University, affiliated with the Faculty of Info
   Oct 2021 - Sep 2024
 
 
-<br><br>
+<br>
 
 
 ## reviewer
@@ -101,7 +101,7 @@ I am a research fellow at Kyushu University, affiliated with the Faculty of Info
   2025
 
 
-<br><br>
+<br>
 
 
 ## additional infomation
