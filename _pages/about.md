@@ -93,14 +93,13 @@ I am a research fellow at Kyushu University, affiliated with the Faculty of Info
 
 
 ## additional infomation
-- **Completed mandatory military service as a Sergeant**<br>
+- **Completed Mandatory Military Service as a Sergeant**<br>
   Military Police of the Republic of Korea Army<br>
   Oct 2014 - Jul 2016
 
-- **Completed a Japanese language program**<br>
+- **Completed the Japanese Language Program as the Student Representative at the Graduation Ceremony**<br>
   Fukuoka University<br>
   Oct 2018 - Sep 2019
-
 
 ---
 
