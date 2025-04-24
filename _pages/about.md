@@ -36,16 +36,16 @@ I am a research fellow at Kyushu University, affiliated with the Faculty of Info
 ## experience
 
 - **Research Fellow at Kyushu University**<br>
-  Apr 2025 – Present<br>
-  Fukuoka, Japan
+  Fukuoka, Japan<br>
+  Apr 2025 – Present
 
 - **Research Intern at NASA JPL (Jet Propulsion Laboratory)**<br>
-  Feb 2024 – Apr. 2024<br>
-  Pasadena, California, United States
+  Pasadena, California, United States<br>
+  Feb 2024 – Apr. 2024
 
 - **Part-time Engineer at Living Robot Inc**<br>
-  Oct 2020 – Jan 2024<br>
-  Fukuoka, Japan
+  Fukuoka, Japan<br>
+  Oct 2020 – Jan 2024
   
 
 
@@ -53,16 +53,16 @@ I am a research fellow at Kyushu University, affiliated with the Faculty of Info
 ## education
 
 - **PhD, Graduate School of Information Science and Electrical Engineering, Kyushu University**<br>
-  Oct 2021 - Mar 2025<br>
-  Fukuoka, Japan
+  Fukuoka, Japan<br>
+  Oct 2021 - Mar 2025
 
 - **MEng, Graduate School of Information Science and Electrical Engineering, Kyushu University**<br>
-  Apr 2019 - Mar 2021<br>
-  Fukuoka, Japan
+  Fukuoka, Japan<br>
+  Apr 2019 - Mar 2021
 
 - **BEng, Department of Electronic Engineering, Gachon University**<br>
-  Mar 2012 - Feb 2019<br>
-  Seongnam, South Korea
+  Seongnam, South Korea<br>
+  Mar 2012 - Feb 2019
 
 
 
