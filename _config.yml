@@ -264,8 +264,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: ["Ahn", "アン"]
-  first_name: ["Jeongho", "ジョンホ"]
+  last_name: []
+  first_name: []
 
   style: apa
   locale: en
