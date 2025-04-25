@@ -1417,10 +1417,3 @@ figure.cover {
     color: #23212d !important;
   }
 }
-
-/* 메뉴 이름 첫 글자 대문자 만들기 */
-.navbar .nav-link, 
-.navbar .navbar-brand, 
-.navbar-nav .nav-item .nav-link {
-  text-transform: capitalize !important;
-}
