@@ -35,16 +35,16 @@ I am a research fellow at Kyushu University, affiliated with the Faculty of Info
 
 ## experience
 
-- **Research Fellow at Kyushu University**<br>
-  Fukuoka, Japan<br>
+- **Research Fellow**<br>
+  Kyushu University, Fukuoka, Japan<br>
   Apr 2025 – Present
 
-- **Research Intern at NASA JPL (Jet Propulsion Laboratory)**<br>
-  Pasadena, California, United States<br>
+- **Research Intern**<br>
+  NASA JPL (Jet Propulsion Laboratory), Pasadena, California, United States<br>
   Feb 2024 – Apr. 2024
 
-- **Part-time Software Engineer at Living Robot Inc**<br>
-  Fukuoka, Japan<br>
+- **Part-time Software Engineer**<br>
+  Living Robot Inc, Fukuoka, Japan<br>
   Oct 2020 – Jan 2024
   
 
@@ -52,16 +52,17 @@ I am a research fellow at Kyushu University, affiliated with the Faculty of Info
 
 ## education
 
-- **PhD, Graduate School of Information Science and Electrical Engineering, Kyushu University**<br>
-  Fukuoka, Japan<br>
+- **PhD, Graduate School of Information Science and Electrical Engineering**<br>
+  Kyushu University, Fukuoka, Japan<br>
+  Thesis: [3D LiDAR-based Gait Analysis for Person Identification in Long-range Measurement Environments](/assets/pdf/theis_phd.pdf)
   Oct 2021 - Mar 2025
 
-- **MEng, Graduate School of Information Science and Electrical Engineering, Kyushu University**<br>
-  Fukuoka, Japan<br>
+- **MEng, Graduate School of Information Science and Electrical Engineering**<br>
+  Kyushu University, Fukuoka, Japan<br>
   Apr 2019 - Mar 2021
 
-- **BEng, Department of Electronic Engineering, Gachon University**<br>
-  Seongnam, South Korea<br>
+- **BEng, Department of Electronic Engineering**<br>
+  Gachon University, Seongnam, South Korea<br>
   Mar 2012 - Feb 2019
 
 
