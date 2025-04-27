@@ -40,7 +40,7 @@ I am a research fellow at Kyushu University, affiliated with the Faculty of Info
   Apr 2025 – Present
 
 - **Research Intern**<br>
-  NASA JPL (Jet Propulsion Laboratory), Pasadena, California, United States<br>
+  NASA JPL (Jet Propulsion Laboratory), Pasadena, United States<br>
   Feb 2024 – Apr. 2024
 
 - **Part-time Software Engineer**<br>
