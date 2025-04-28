@@ -93,7 +93,7 @@ I am a research fellow at Kyushu University, affiliated with the Faculty of Info
 
 
 
-## additional infomation
+## additional information
 - **Completed Mandatory Military Service as a Sergeant**<br>
   Military Police of the Republic of Korea Army<br>
   Oct 2014-Jul 2016
