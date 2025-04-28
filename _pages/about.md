@@ -70,7 +70,7 @@ I am a research fellow at Kyushu University, affiliated with the Faculty of Info
 
 ## award
 
-- **Excellent Presentation Award**<br>
+- **Outstanding Presentation Award**<br>
   3MT (Three Minute Thesis) Competition, Kyushu University<br>
   Mar 2025
 
