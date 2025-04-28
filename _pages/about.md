@@ -30,6 +30,10 @@ I am a research fellow at Kyushu University, affiliated with the Faculty of Info
 
 
 
+[Download CV (PDF)](/assets/pdf/CV_jeongho_2025-04-28.pdf)
+
+
+
 
 ---
 
