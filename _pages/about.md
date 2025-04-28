@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>E-mail: ahn@irvs.ait.kyushu-u.ac.jp</p>
-    <p>Phone: +81-80-7895-6121</p>
+    <p>Email: ahn@irvs.ait.kyushu-u.ac.jp</p>
+    <p>Tel: +81-80-7895-6121</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
