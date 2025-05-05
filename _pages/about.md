@@ -103,7 +103,7 @@ I am a research fellow at Kyushu University, affiliated with the Faculty of Info
   Oct 2014-Jul 2016
 
 - **Served as the Student Representative at the Graduation Ceremony**<br>
-  Japan Language Program, Fukuoka University<br>
+  Japanese Language Program, Fukuoka University<br>
   Oct 2018-Sep 2019
 
 
