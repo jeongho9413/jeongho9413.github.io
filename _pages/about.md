@@ -58,7 +58,7 @@ I am a research fellow at Kyushu University, affiliated with the Faculty of Info
 
 - **PhD, Graduate School of Information Science and Electrical Engineering**<br>
   Kyushu University, Fukuoka, Japan<br>
-  Thesis: [3D LiDAR-based Gait Analysis for Person Identification in Long-range Measurement Environments](/assets/pdf/thesis_phd.pdf)<br>
+  Thesis: [3D LiDAR-based Gait Analysis for Person Identification in Long-range Measurement Environments](/assets/pdf/phd_thesis.pdf)  ([Slides](/assets/pdf/phd_slides.pdf))<br>
   Oct 2021-Mar 2025
 
 - **MEng, Graduate School of Information Science and Electrical Engineering**<br>
