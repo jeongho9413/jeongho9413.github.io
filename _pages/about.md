@@ -26,8 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a research fellow at Kyushu University, affiliated with the Faculty of Information Science and Electrical Engineering and the Faculty of Engineering. I received my PhD from Kyushu University in 2025, under the supervision of [Prof. Ryo Kurazume](https://robotics.ait.kyushu-u.ac.jp/). My research interests lie at the intersection of computer vision and robotics, particularly in 3D scene understanding and gait recognition.
-
+I am a research fellow at Kyushu University, affiliated with the Faculty of Information Science and Electrical Engineering and the Faculty of Engineering. I received my PhD from Kyushu University in 2025, under the supervision of [Prof. Ryo Kurazume](https://robotics.ait.kyushu-u.ac.jp/). My research interests lie at the intersection of computer vision and robotics, with a focus on 2D/3D understanding and human gait recognition.
 
 
 [Download CV (PDF)](/assets/pdf/CV_jeongho_2025-04-30.pdf)
