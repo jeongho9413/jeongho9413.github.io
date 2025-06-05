@@ -82,7 +82,7 @@ I am a research fellow at Kyushu University, affiliated with the Faculty of Info
 
 ## grant
 
-- **Support for Pioneering Research Initiated by the Next Generation (SPRING)**
+- **Support for Pioneering Research Initiated by the Next Generation (SPRING)**<br>
   Japan Science and Technology Agency (JST)<br>
   Oct 2021-Sep 2024
 
