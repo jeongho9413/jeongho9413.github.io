@@ -38,9 +38,13 @@ I am a research fellow at Kyushu University, affiliated with the Faculty of Info
 
 ## experience
 
-- **Research Fellow**<br>
+- **Postdoctoral Researcher**<br>
   Kyushu University, Fukuoka, Japan<br>
   Apr 2025–Present
+
+- **Research Assistant**<br>
+  Kyushu University, Fukuoka, Japan<br>
+  Oct 2024–Mar 2025
 
 - **Research Intern**<br>
   NASA Jet Propulsion Laboratory, Pasadena, United States<br>
