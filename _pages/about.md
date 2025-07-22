@@ -89,17 +89,18 @@ I am currently a research fellow at Kyushu University, affiliated with the Facul
 - **Support for Pioneering Research Initiated by the Next Generation (SPRING)**<br>
   Japan Science and Technology Agency (JST)<br>
   Oct 2021-Sep 2024
+  
 
 
 ## member
 - **Institute of Electrical and Electronics Engineers (IEEE)**<br>
-  Apr 2020-Present
+  Oct 2019-Present
 - **IEEE Robotics and Automation Society (RAS)**<br>
-  Apr 2020-Present
+  Oct 2019-Present
 - **Information Processing Society of Japan (IPSJ)**<br>
-  Oct 2021-Present
-- **The Robotics Society of Japan (RSJ)**<br>
   Apr 2020-Present
+- **The Robotics Society of Japan (RSJ)**<br>
+  Oct 2019-Present
 
 
 
