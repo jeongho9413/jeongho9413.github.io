@@ -92,18 +92,25 @@ I am currently a research fellow at Kyushu University, affiliated with the Facul
 
 
 ## member
-- **Institute of Electrical and Electronics Engineers (IEEE)**
-- **IEEE Robotics and Automation Society (RAS)**
-- **Information Processing Society of Japan (IPSJ)**
-- **The Robotics Society of Japan (RSJ)**
+- **Institute of Electrical and Electronics Engineers (IEEE)**<br>
+  Apr 2020-Present
+- **IEEE Robotics and Automation Society (RAS)**<br>
+  Apr 2020-Present
+- **Information Processing Society of Japan (IPSJ)**<br>
+  Oct 2021-Present
+- **The Robotics Society of Japan (RSJ)**<br>
+  Apr 2020-Present
 
 
 
 
 ## reviewer
-- **Journal of NeuroEngineering and Rehabilitation** 2025
-- **Wireless Networks** 2025
-- **Scientific Reports** 2025
+- **Journal of NeuroEngineering and Rehabilitation**<br>
+  2025
+- **Wireless Networks**<br>
+  2025
+- **Scientific Reports**<br>
+  2025
 
 
 
