@@ -101,11 +101,9 @@ I am currently a research fellow at Kyushu University, affiliated with the Facul
 
 
 ## reviewer
-- **Journal of NeuroEngineering and Rehabilitation**<br>
-  2025
-  
-- **Wireless Networks**<br>
-  2025
+- **Journal of NeuroEngineering and Rehabilitation** 2025
+- **Wireless Networks** 2025
+- **Scientific Reports** 2025
 
 
 
