@@ -91,6 +91,13 @@ I am currently a research fellow at Kyushu University, affiliated with the Facul
   Oct 2021-Sep 2024
 
 
+## member
+- **Institute of Electrical and Electronics Engineers (IEEE)**
+- **IEEE Robotics and Automation Society (RAS)**
+- **Information Processing Society of Japan (IPSJ)**
+- **The Robotics Society of Japan (RSJ)**
+
+
 
 
 ## reviewer
