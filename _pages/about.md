@@ -50,7 +50,7 @@ I am currently a research fellow at Kyushu University, affiliated with the Facul
   NASA Jet Propulsion Laboratory, Pasadena, United States<br>
   Feb–Apr 2024
 
-- **Software Engineer**<br>
+- **Part-time Software Engineer**<br>
   Living Robot Inc, Fukuoka, Japan<br>
   Oct 2020–Jan 2024
   
