@@ -111,7 +111,7 @@ I am currently a research fellow at Kyushu University, affiliated with the Facul
 - **Wireless Networks**<br>
   2025
 - **Scientific Reports**<br>
-  2025
+  Jul, Sept 2025
 
 
 
