@@ -29,7 +29,7 @@ latest_posts:
 I am currently a research fellow at Kyushu University, affiliated with the Faculty of Information Science and Electrical Engineering (ISEE). I earned my PhD from Kyushu University in March 2025 under the supervision of [Prof. Ryo Kurazume](https://robotics.ait.kyushu-u.ac.jp/kurazume/en/). My research interests lie at the intersection of computer vision and robotics, with a focus on 2D/3D scene understanding and person identification using gait recognition.
 
 
-[Download CV (PDF)](/assets/pdf/resume_jeongho_20250924.pdf)
+[Download CV (PDF)](/assets/pdf/cv_jeongho_20250924.pdf)
 
 
 
