@@ -37,19 +37,15 @@ I am currently a research fellow at Kyushu University, affiliated with the Facul
 ---
 
 ## experience
-
 - **Postdoctoral Researcher**<br>
   Kyushu University, Fukuoka, Japan<br>
   Apr 2025–Present
-
 - **Research Assistant**<br>
   Kyushu University, Fukuoka, Japan<br>
   Oct 2024–Mar 2025
-
 - **Research Intern**<br>
-  NASA Jet Propulsion Laboratory, Pasadena, United States<br>
+  NASA Jet Propulsion Laboratory, CA, United States<br>
   Feb–Apr 2024
-
 - **Part-time Software Engineer**<br>
   Living Robot Inc, Fukuoka, Japan<br>
   Oct 2020–Jan 2024
@@ -58,16 +54,13 @@ I am currently a research fellow at Kyushu University, affiliated with the Facul
 
 
 ## education
-
 - **PhD, Graduate School of Information Science and Electrical Engineering**<br>
   Kyushu University, Fukuoka, Japan<br>
   Thesis: 3D LiDAR-based Gait Analysis for Person Identification in Long-range Measurement Environments [[Paper](/assets/pdf/phd_thesis.pdf)]<br>
   Oct 2021-Mar 2025
-
 - **MEng, Graduate School of Information Science and Electrical Engineering**<br>
   Kyushu University, Fukuoka, Japan<br>
   Apr 2019-Mar 2021
-
 - **BEng, Department of Electronic Engineering**<br>
   Gachon University, Seongnam, South Korea<br>
   Mar 2012-Feb 2019
@@ -80,14 +73,16 @@ I am currently a research fellow at Kyushu University, affiliated with the Facul
 - **Outstanding Presentation Award**<br>
   3MT (Three Minute Thesis) Competition, Kyushu University<br>
   Mar 2025
+- **Grand Prize**<br>
+  Parking System Robot Competition, Gachon University<br>
+  Mar 2025
 
 
 
 
 ## grant
-
 - **Support for Pioneering Research Initiated by the Next Generation (SPRING)**<br>
-  Japan Science and Technology Agency (JST)<br>
+  Japan Science and Technology Agency (JST), ¥1,500K<br>
   Oct 2021-Sep 2024
   
 
@@ -106,24 +101,25 @@ I am currently a research fellow at Kyushu University, affiliated with the Facul
 
 
 ## reviewer
-- **Journal of NeuroEngineering and Rehabilitation**<br>
+- **IEEE | International Conference on Robotics and Automation (ICRA)**<br>
+  Oct 2025
+- **Springer Nature | Journal of NeuroEngineering and Rehabilitation**<br>
   Apr 2025
-- **Wireless Networks**<br>
+- **Springer Nature | Wireless Networks**<br>
   Jul 2025
-- **Scientific Reports**<br>
+- **Springer Nature | Scientific Reports**<br>
   Jul, Sep 2025
 
 
 
 
 ## additional information
-- **Completed Mandatory Military Service as a Squad Leader**<br>
-  Military Police of the Republic of Korea Army<br>
-  Oct 2014-Jul 2016
-
-- **Served as the Student Representative at the Graduation Ceremony**<br>
-  Japanese Language Program, Fukuoka University<br>
+- **Student Representative**<br>
+  Graduation Ceremony, Japanese Language Program, Fukuoka University<br>
   Oct 2018-Sep 2019
+- **Squad Leader, Military Police**<br>
+  Military Police of the Republic of Korea Army (Mandatory Service)<br>
+  Oct 2014-Jul 2016
 
 
 ---
