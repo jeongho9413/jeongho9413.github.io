@@ -36,22 +36,6 @@ I am currently a research fellow at Kyushu University, affiliated with the Facul
 
 ---
 
-## experience
-- **Postdoctoral Researcher**<br>
-  Kyushu University, Fukuoka, Japan<br>
-  Apr 2025–Present
-- **Research Assistant**<br>
-  Kyushu University, Fukuoka, Japan<br>
-  Oct 2024–Mar 2025
-- **Research Intern**<br>
-  NASA Jet Propulsion Laboratory, CA, United States<br>
-  Feb–Apr 2024
-- **Part-time Software Engineer**<br>
-  Living Robot Inc, Fukuoka, Japan<br>
-  Oct 2020–Jan 2024
-  
-
-
 
 ## education
 - **PhD, Graduate School of Information Science and Electrical Engineering**<br>
@@ -65,11 +49,25 @@ I am currently a research fellow at Kyushu University, affiliated with the Facul
   Gachon University, Seongnam, South Korea<br>
   Mar 2012-Feb 2019
 
+  
+
+## experience
+- **Postdoctoral Researcher**<br>
+  Kyushu University, Fukuoka, Japan<br>
+  Apr 2025–Present
+- **Research Assistant**<br>
+  Kyushu University, Fukuoka, Japan<br>
+  Oct 2024–Mar 2025
+- **Research Intern**<br>
+  NASA Jet Propulsion Laboratory, CA, United States<br>
+  Feb–Apr 2024
+- **Part-time Software Engineer**<br>
+  Living Robot Inc, Fukuoka, Japan<br>
+  Oct 2020–Jan 2024
 
 
 
 ## award
-
 - **Outstanding Presentation Award**<br>
   3MT (Three Minute Thesis) Competition, Kyushu University<br>
   Mar 2025
@@ -99,7 +97,6 @@ I am currently a research fellow at Kyushu University, affiliated with the Facul
 
 
 
-
 ## reviewer
 - **IEEE | International Conference on Robotics and Automation (ICRA)**<br>
   Oct 2025
@@ -109,7 +106,6 @@ I am currently a research fellow at Kyushu University, affiliated with the Facul
   Jul 2025
 - **Springer Nature | Scientific Reports**<br>
   Jul, Sep 2025
-
 
 
 
