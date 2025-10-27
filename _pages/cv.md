@@ -5,7 +5,9 @@ title: cv
 nav: true
 nav_order: 2
 cv_pdf: example_pdf.pdf # you can also use external links here
-description: [Download CV (PDF)](/assets/pdf/cv_jeongho_20251024.pdf)
+description: 
 toc:
   sidebar: left
 ---
+
+[Download CV (PDF)](/assets/pdf/cv_jeongho_20251024.pdf)
