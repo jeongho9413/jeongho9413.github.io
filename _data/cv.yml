@@ -88,7 +88,7 @@
       institution: Japan Science and Technology Agency (JST)
       year: 2021.10 - 2024.9
       description: 
-        - ¥1,500K
+        - "Amount: ¥1,500K"
 
 
 - title: Awards
@@ -130,26 +130,42 @@
       description: Mandatory Service
 
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-
-- title: Academic Interests
+- title: Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Programming Languages
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Python
+        - C/C++
+        - Java
+        - VHDL
+    - title: Machine Learning Frameworks
       items:
-        - Description 1.
-        - Description 2.
+        - PyTorch
+        - TensorFlow
+        - Scikit-learn
+    - title: Tools & DevOps
+      items:
+        - Ubuntu
+        - Git
+        - Docker
+    - title: Libraries & Middleware
+      items:
+        - ROS (Robot Operating System) 1/2
+        - OpenCV
+        - Open3D
+        - PCL (Point Cloud Library)
+        - SMPL (A Skinned Multi-Person Linear Model)
+    - title: Embedded Platforms
+      items:
+        - Arduino
+        - Raspberry Pi
+        - Intel NUC
+        - Jetson AGX Orin
+    - title: Devices
+      items:
+        - LiDAR sensors
+        - RGB-D cameras
+        - Event cameras
+        - Olfactory sensors
+        
