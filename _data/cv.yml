@@ -1,4 +1,4 @@
-- title: General Information
+- title: Basics
   type: map
   contents:
     - name: Full Name
@@ -9,7 +9,7 @@
       value: +81 80-7895-6121
 
 
-- title: Research Interests
+- title: Interests
   type: nested_list
   contents:
     - title: Biometrics
