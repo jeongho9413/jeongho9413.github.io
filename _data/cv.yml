@@ -3,10 +3,11 @@
   contents:
     - name: Full Name
       value: Jeongho Ahn
-    - name: Date of Birth
-      value: 12th June 1992
-    - name: Languages
-      value: Korean, English, Japanese
+    - name: Email
+      value: ahn@irvs.ait.kyushu-u.ac.jp
+    - name: Phone
+      value: +81 80-7895-6121
+      value: +82 10-8551-8746
 
 - title: Education
   type: time_table
