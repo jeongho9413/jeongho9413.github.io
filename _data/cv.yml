@@ -7,8 +7,6 @@
       value: ahn@irvs.ait.kyushu-u.ac.jp
     - name: Phone
       value: +81 80-7895-6121
-    - name: Languages
-      value: Korean, English, Japanese
 
 
 - title: Research Interests
@@ -33,6 +31,11 @@
 - title: Skills
   type: nested_list
   contents:
+    - title: Languages
+      item:
+        - Korean
+        - English
+        - Japanese
     - title: Programming Languages
       items:
         - Python
