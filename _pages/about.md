@@ -31,4 +31,4 @@ I earned my PhD from Kyushu University in March 2025 under the supervision of [P
 My research interests lie at the intersection of computer vision and robotics, with a focus on 2D/3D scene understanding and person identification using gait recognition. 
 
 ---
-For more inoformation, please see [curriculum vitae](https://jeongho9413.github.io/cv/) and [publications](https://jeongho9413.github.io/publications/) pages.
+For further details, please refer to the [Curriculum Vitae](https://jeongho9413.github.io/cv/) and [Publications](https://jeongho9413.github.io/publications/) pages.
