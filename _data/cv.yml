@@ -32,7 +32,7 @@
   type: nested_list
   contents:
     - title: Languages
-      item:
+      items:
         - Korean
         - English
         - Japanese
