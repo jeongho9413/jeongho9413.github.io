@@ -6,8 +6,9 @@
     - name: Email
       value: ahn@irvs.ait.kyushu-u.ac.jp
     - name: Phone
-      value: +81 80-7895-6121
-      value: +82 10-8551-8746
+      items:
+        - +81 80-7895-6121
+        - +82 10-8551-8746
 
 
 - title: Education
@@ -61,16 +62,13 @@
         - Developed machine learning-based models using time–series data from olfactory sensors to predict health conditions based on patient excretion.
 
 
-- title: Honors and Awards
+- title: Research Grant
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: Support for Pioneering Research Initiated by the Next Generation (SPRING)
+      institution: Japan Science and Technology Agency (JST)
+      year: 2021.10 - 2024.9
+      description: Amount: ¥1,500,000
 
 
 - title: Honors and Awards
