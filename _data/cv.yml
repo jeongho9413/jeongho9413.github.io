@@ -38,27 +38,31 @@
   type: time_table
   contents:
     - title: Postdoctoral Researcher
-      institution: Faculty of Information Science and Electrical Engineering, Kyushu University, Fukuoka, Japan
       year: 2025.4 - Present
       description:
+        - Faculty of Information Science and Electrical Engineering, Kyushu University, Fukuoka, Japan
+      items:
         - Developed a real-time ROS2-based person segmentation system using LiDAR–camera calibration for mobile robot navigation.
     
     - title: Research Assistant
-      institution: Faculty of Information Science and Electrical Engineering, Kyushu University, Fukuoka, Japan
       year: 2024.10 - 2025.3
       description:
+        - Faculty of Information Science and Electrical Engineering, Kyushu University, Fukuoka, Japan
+      items:
         - Developed real-time heavy machinery detection models for construction site automation.
 
     - title: Research Intern
-      institution: NASA Jet Propulsion Laboratory (JPL), CA, United States
       year: 2024.2 - 2024.4
       description:
+        - NASA Jet Propulsion Laboratory (JPL), CA, United States
+      items:
         - Designed deep learning-based restoration models to denoise images of Permanently Shadowed Regions (PSRs) on the lunar surface.
 
     - title: Part-time Software Engineer
-      institution: Living Robot Inc., Fukuoka, Japan
       year: 2020.10 - 2024.1
       description:
+        - Living Robot Inc., Fukuoka, Japan
+      items:
         - Developed machine learning-based models using time–series data from olfactory sensors to predict health conditions based on patient excretion.
 
 
@@ -66,9 +70,10 @@
   type: time_table
   contents:
     - title: Support for Pioneering Research Initiated by the Next Generation (SPRING)
-      institution: Japan Science and Technology Agency (JST)
       year: 2021.10 - 2024.9
       description: 
+        - Japan Science and Technology Agency (JST)
+      items:
         - ¥1,500K
 
 
