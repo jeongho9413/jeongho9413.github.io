@@ -84,6 +84,31 @@
       description: Parking System Robot Competition, Gachon University
 
 
+- title: Reviewer
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - IEEE | International Conference on Robotics and Automation (ICRA)
+        - Springer Nature | Scientific Reports
+        - Springer Nature | Wireless Networks
+        - Springer Nature | Journal of NeuroEngineering and Rehabilitation
+
+
+- title: Additional Information
+  type: time_table
+  contents:
+    - title: Student Representative
+      institution: Fukuoka University, Japan
+      year: 2018.10 - 2019.9
+      description: Graduation Ceremony for the Japanese Language Program
+
+    - title: Squad Leader, Military Police
+      institution: Republic of Korea Army, South Korea
+      year: 2014.10 - 2016.7
+      description: Mandatory Service
+
+
 - title: Honors and Awards
   type: time_table
   contents:
@@ -107,8 +132,3 @@
       items:
         - Description 1.
         - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
