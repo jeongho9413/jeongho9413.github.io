@@ -30,6 +30,46 @@
         - 2D/3D Upsampling
         
 
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Programming Languages
+      items:
+        - Python
+        - C/C++
+        - Java
+        - VHDL
+    - title: Machine Learning Frameworks
+      items:
+        - PyTorch
+        - TensorFlow
+        - Scikit-learn
+    - title: Tools & DevOps
+      items:
+        - Ubuntu
+        - Git
+        - Docker
+    - title: Libraries & Middleware
+      items:
+        - ROS (Robot Operating System) 1/2
+        - OpenCV
+        - Open3D
+        - PCL (Point Cloud Library)
+        - SMPL (A Skinned Multi-Person Linear Model)
+    - title: Embedded Platforms
+      items:
+        - Arduino
+        - Raspberry Pi
+        - Intel NUC
+        - Jetson AGX Orin
+    - title: Devices
+      items:
+        - LiDAR sensors
+        - RGB-D cameras
+        - Event cameras
+        - Olfactory sensors
+
+
 - title: Education
   type: time_table
   contents:
@@ -103,46 +143,6 @@
       institution: Gachon University
       year: 2019.11
       description: Parking System Robot Competition, Gachon University
-
-
-- title: Skills
-  type: nested_list
-  contents:
-    - title: Programming Languages
-      items:
-        - Python
-        - C/C++
-        - Java
-        - VHDL
-    - title: Machine Learning Frameworks
-      items:
-        - PyTorch
-        - TensorFlow
-        - Scikit-learn
-    - title: Tools & DevOps
-      items:
-        - Ubuntu
-        - Git
-        - Docker
-    - title: Libraries & Middleware
-      items:
-        - ROS (Robot Operating System) 1/2
-        - OpenCV
-        - Open3D
-        - PCL (Point Cloud Library)
-        - SMPL (A Skinned Multi-Person Linear Model)
-    - title: Embedded Platforms
-      items:
-        - Arduino
-        - Raspberry Pi
-        - Intel NUC
-        - Jetson AGX Orin
-    - title: Devices
-      items:
-        - LiDAR sensors
-        - RGB-D cameras
-        - Event cameras
-        - Olfactory sensors
         
 
 - title: Reviewer
