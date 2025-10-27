@@ -72,6 +72,18 @@
         - ¥1,500K
 
 
+- title: Awards
+  type: time_table
+  contents:
+    - title: Outstanding Presentation Award
+      institution: Three Minute Thesis (3MT) Competition, Kyushu University
+      year: 2025.3
+
+    - title: Grand Prize
+      institution: Parking System Robot Competition, Gachon University
+      year: 2019.11
+
+
 - title: Honors and Awards
   type: time_table
   contents:
@@ -82,6 +94,7 @@
     - year: 2029
       items:
         - Max Planck Medal
+
 
 - title: Academic Interests
   type: nested_list
