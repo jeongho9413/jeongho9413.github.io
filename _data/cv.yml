@@ -143,19 +143,15 @@
         - RGB-D cameras
         - Event cameras
         - Olfactory sensors
+        
 
-
-- title: Member
+- title: Reviewer
   type: time_table
   contents:
-    - title: Institute of Electrical and Electronics Engineers (IEEE)
-      year: 2019.10 - Present
-    - title: IEEE Robotics and Automation Society (RAS)
-      year: 2019.10 - Present
-    - title: Information Processing Society of Japan (IPSJ)
-      year: 2020.4 - Present
-    - title: The Robotics Society of Japan (RSJ)
-      year: 2020.10 - Present
+      items:
+        - Institute of Electrical and Electronics Engineers (IEEE)
+        - IEEE Robotics and Automation Society (RAS)
+        - The Robotics Society of Japan (RSJ)
 
 
 - title: Reviewer
