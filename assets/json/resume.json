@@ -30,7 +30,9 @@
       "startDate": "2021-10",
       "endDate": "2025-03",
       "score": "10",
-      "courses": ["Dissertation: 3D LiDAR-based Gait Analysis for Person Identification in Long-range Measurement Environments"]
+      "courses": 
+        ["Advisor: Prof. Ryo Kurazume"], 
+        ["Dissertation: 3D LiDAR-based Gait Analysis for Person Identification in Long-range Measurement Environments"]
     }, 
     {
       "institution": "Kyushu University, Fukuoka, Japan",
