@@ -4,7 +4,6 @@
     "image": "",
     "email": "ahn@irvs.ait.kyushu-u.ac.jp",
     "phone": "(080) 7895-6121",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -45,15 +44,15 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "Kyushu University, Fukuoka, Japan",
+      "location": "Fukuoka, Japan",
+      "url": "https://www.isee.kyushu-u.ac.jp/e/",
+      "area": " Information Science and Electrical Engineering",
+      "studyType": "Ph.D.",
+      "startDate": "2021-10",
+      "endDate": "2025-03",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Dissertation: 3D LiDAR-based Gait Analysis for Person Identification in Long-range Measurement Environments"]
     }
   ],
   "awards": [
