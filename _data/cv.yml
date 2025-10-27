@@ -11,6 +11,26 @@
       value: Korean, English, Japanese
 
 
+- title: Interests
+  type: nested_list
+  contents:
+    - title: Scene Understanding
+      items:
+        - 3D Object detection/tracking
+        - 3D Segmentation
+        - LiDAR-camera Calibration
+        - 3D Scene Graph
+    - title: Biometrics
+      items:
+        - Person Indentification
+        - Gait Recognition
+    - title: Generative Modeling
+      items:
+        - 2D/3D Restoration
+        - 2D/3D Upsampling
+        
+
+
 - title: Education
   type: time_table
   contents:
