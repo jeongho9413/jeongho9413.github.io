@@ -68,10 +68,7 @@
         - Jetson AGX Orin
     - title: Devices
       items:
-        - "LiDAR sensors:"
-          items:
-            - "Mechanical type: Velodyne HDL-32E, VLP-32C, Livox MID-360"
-            - "Solid-state type: Pioneer SSL-S01"
+        - "LiDAR sensors:Velodyne HDL-32E, VLP-32C, Pioneer SSL-S0, Livox MID-360"
         - "RGB-D cameras: Intel RealSense D415, D435"
         - Olfactory sensors
 
