@@ -15,7 +15,7 @@
     - title: Person Identification
       items:
         - Gait Recognition
-        - 3D human modeling
+        - 3D Human Modeling
     - title: Generative Modeling
       items:
         - 2D/3D Restoration
@@ -23,7 +23,7 @@
         - 3D Reconstruction
     - title: Scene Understanding
       items:
-        - 3D Object detection and tracking
+        - 3D Object Detection and Tracking
         - 3D Segmentation
         - LiDAR-Camera Calibration
         - 3D Vision-Language Models
