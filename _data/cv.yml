@@ -138,12 +138,12 @@
   type: time_table
   contents:
     - title: Outstanding Presentation Award
-      institution: Kyushu University
+      institution: Kyushu University, Fukuoka, Japan
       year: 2025.3
       description: Three Minute Thesis (3MT) Competition
 
     - title: Grand Prize
-      institution: Gachon University
+      institution: Gachon University, Seongnam, South Korea
       year: 2019.11
       description: Parking System Robot Competition, Gachon University
         
@@ -173,11 +173,11 @@
   type: time_table
   contents:
     - title: Student Representative
-      institution: Fukuoka University, Japan
+      institution: Fukuoka University, Fukuoka, Japan
       year: 2018.10 - 2019.9
       description: Graduation Ceremony for the Japanese Language Program
 
     - title: Squad Leader, Military Police
-      institution: Republic of Korea Army, South Korea
+      institution: Republic of Korea Army, Uijeongbu, South Korea
       year: 2014.10 - 2016.7
       description: Mandatory Service
