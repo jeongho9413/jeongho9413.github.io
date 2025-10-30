@@ -12,14 +12,15 @@
 - title: Interests
   type: nested_list
   contents:
-    - title: Biometrics
+    - title: Person Identification
       items:
-        - Person Identification
         - Gait Recognition
+        - 3D human modeling
     - title: Generative Modeling
       items:
         - 2D/3D Restoration
         - 2D/3D Upsampling
+        - 3D Reconstruction
     - title: Scene Understanding
       items:
         - 3D Object detection and tracking
@@ -67,7 +68,10 @@
         - Jetson AGX Orin
     - title: Devices
       items:
-        - LiDAR sensors
+        - "LiDAR sensors"
+          items:
+            - "Mechanical type: "
+            - "Solid-state type:"
         - RGB-D cameras
         - Event cameras
         - Olfactory sensors
