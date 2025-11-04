@@ -34,9 +34,9 @@
   contents:
     - title: Languages
       items:
-        - Korean
         - English
         - Japanese
+        - Korean
     - title: Programming Languages
       items:
         - Python
@@ -60,6 +60,7 @@
         - Open3D
         - PCL (Point Cloud Library)
         - SMPL (A Skinned Multi-Person Linear Model)
+        - Maya
     - title: Embedded Platforms
       items:
         - Arduino
@@ -163,10 +164,10 @@
   contents:
     - year: 2025
       items:
-        - IEEE | International Conference on Robotics and Automation (ICRA)
-        - Springer Nature | Scientific Reports
-        - Springer Nature | Wireless Networks
-        - Springer Nature | Journal of NeuroEngineering and Rehabilitation
+        - IEEE International Conference on Robotics and Automation (ICRA)
+        - Springer Nature Scientific Reports
+        - Springer Nature Wireless Networks
+        - Springer Nature Journal of NeuroEngineering and Rehabilitation
 
 
 - title: Additional Information
@@ -175,7 +176,7 @@
     - title: Student Representative
       institution: Fukuoka University, Fukuoka, Japan
       year: 2018.10 - 2019.9
-      description: Graduation Ceremony for the Japanese Language Program
+      description: Japanese Language Program
 
     - title: Squad Leader, Military Police
       institution: Republic of Korea Army, Uijeongbu, South Korea
