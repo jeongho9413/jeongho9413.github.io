@@ -18,7 +18,7 @@
         - 3D Human Modeling
     - title: Generative Modeling
       items:
-        - 3D Time-Series Restoration/Upsampling
+        - Time-Series Restoration/Upsampling
         - 3D Reconstruction
     - title: Scene Understanding
       items:
