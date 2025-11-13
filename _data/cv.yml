@@ -12,10 +12,6 @@
 - title: Interests
   type: nested_list
   contents:
-    - title: Person Identification
-      items:
-        - Gait Recognition
-        - 3D Human Modeling
     - title: Generative Modeling
       items:
         - Time-Series Restoration/Upsampling
@@ -26,6 +22,10 @@
         - Segmentation
         - LiDAR-Camera Calibration
         - 3D Vision-Language Models
+    - title: Person Identification
+      items:
+        - Gait Recognition
+        - 3D Human Modeling
         
 
 - title: Skills
